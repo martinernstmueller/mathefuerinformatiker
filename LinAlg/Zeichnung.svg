@@ -23,13 +23,43 @@
        orient="auto"
        refY="0.0"
        refX="0.0"
-       id="TriangleInL"
+       id="marker10594"
        style="overflow:visible"
        inkscape:isstock="true">
       <path
+         id="path10592"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(-0.8)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker10434"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="TriangleInL"
+       inkscape:collect="always">
+      <path
+         transform="scale(-0.8)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         id="path10432" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInL"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="TriangleInL"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
          id="path950"
          d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
-         style="fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt;stroke-opacity:1;fill:#ff0000;fill-opacity:1"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#ff0000;fill-opacity:1"
          transform="scale(-0.8)" />
     </marker>
     <marker
@@ -286,6 +316,51 @@
          style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1.00000003pt;stroke-opacity:1"
          transform="scale(-0.8)" />
     </marker>
+    <marker
+       inkscape:stockid="TriangleInL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleInL-4-4-9-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path950-71-3-5-8"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(-0.8)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleInL-4-4-9-8"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path950-71-3-5-0"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(-0.8)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker10594-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path10592-2"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(-0.8)" />
+    </marker>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -294,9 +369,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="371.37438"
-     inkscape:cy="276.58177"
+     inkscape:zoom="0.7"
+     inkscape:cx="553.40489"
+     inkscape:cy="212.32439"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -308,7 +383,7 @@
      showguides="true"
      inkscape:guide-bbox="true">
     <sodipodi:guide
-       position="134.9375,170.08929"
+       position="67.279762,169.71131"
        orientation="0,1"
        id="guide5091"
        inkscape:locked="false" />
@@ -316,6 +391,21 @@
        position="26.080357,29.293155"
        orientation="1,0"
        id="guide6254"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="136.90464,40.775308"
+       orientation="1,0"
+       id="guide10217"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="125.21577,58.19794"
+       orientation="1,0"
+       id="guide11946"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="176.51488,37.088915"
+       orientation="0,1"
+       id="guide12008"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
@@ -374,7 +464,7 @@
        sodipodi:nodetypes="ccc"
        inkscape:export-xdpi="299"
        inkscape:export-ydpi="299"
-       inkscape:export-filename="C:\Users\mmueller\Documents\dev\mathefuerinformatiker\vektoradd.png" />
+       inkscape:export-filename="C:\Users\mmueller\Documents\dev\mathefuerinformatiker\linalg\vektoraddmult.png" />
     <path
        style="fill:#0000ff;stroke:#0100ff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInL-7-1)"
        d="m 113.15596,151.72237 -13.418164,33.82887 v 0"
@@ -383,7 +473,7 @@
        sodipodi:nodetypes="ccc"
        inkscape:export-xdpi="299"
        inkscape:export-ydpi="299"
-       inkscape:export-filename="C:\Users\mmueller\Documents\dev\mathefuerinformatiker\vektoradd.png" />
+       inkscape:export-filename="C:\Users\mmueller\Documents\dev\mathefuerinformatiker\linalg\vektoraddmult.png" />
     <path
        style="fill:#ff7f2a;stroke:#ff7f2a;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInL-7-0)"
        d="m 112.28733,151.12101 -53.69752,59.33473 v 0"
@@ -392,14 +482,14 @@
        sodipodi:nodetypes="ccc"
        inkscape:export-xdpi="299"
        inkscape:export-ydpi="299"
-       inkscape:export-filename="C:\Users\mmueller\Documents\dev\mathefuerinformatiker\vektoradd.png" />
+       inkscape:export-filename="C:\Users\mmueller\Documents\dev\mathefuerinformatiker\linalg\vektoraddmult.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="83.92263"
        y="200.78296"
        id="text4768"
-       inkscape:export-filename="C:\Users\mmueller\Documents\dev\mathefuerinformatiker\vektoradd.png"
+       inkscape:export-filename="C:\Users\mmueller\Documents\dev\mathefuerinformatiker\linalg\vektoraddmult.png"
        inkscape:export-xdpi="299"
        inkscape:export-ydpi="299"><tspan
          sodipodi:role="line"
@@ -413,7 +503,7 @@
        x="110.91685"
        y="171.91786"
        id="text4772"
-       inkscape:export-filename="C:\Users\mmueller\Documents\dev\mathefuerinformatiker\vektoradd.png"
+       inkscape:export-filename="C:\Users\mmueller\Documents\dev\mathefuerinformatiker\linalg\vektoraddmult.png"
        inkscape:export-xdpi="299"
        inkscape:export-ydpi="299"><tspan
          sodipodi:role="line"
@@ -427,7 +517,7 @@
        x="68.012421"
        y="177.96898"
        id="text4776"
-       inkscape:export-filename="C:\Users\mmueller\Documents\dev\mathefuerinformatiker\vektoradd.png"
+       inkscape:export-filename="C:\Users\mmueller\Documents\dev\mathefuerinformatiker\linalg\vektoraddmult.png"
        inkscape:export-xdpi="299"
        inkscape:export-ydpi="299"><tspan
          sodipodi:role="line"
@@ -443,7 +533,7 @@
        sodipodi:nodetypes="ccc"
        inkscape:export-xdpi="299"
        inkscape:export-ydpi="299"
-       inkscape:export-filename="C:\Users\mmueller\Documents\dev\mathefuerinformatiker\vektoradd.png" />
+       inkscape:export-filename="C:\Users\mmueller\Documents\dev\mathefuerinformatiker\linalg\vektoraddmult.png" />
     <path
        style="fill:#0000ff;stroke:#0100ff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInL-7-1-1)"
        d="m 194.12819,151.68254 -13.41816,33.82887 v 0"
@@ -452,7 +542,7 @@
        sodipodi:nodetypes="ccc"
        inkscape:export-xdpi="299"
        inkscape:export-ydpi="299"
-       inkscape:export-filename="C:\Users\mmueller\Documents\dev\mathefuerinformatiker\vektoradd.png" />
+       inkscape:export-filename="C:\Users\mmueller\Documents\dev\mathefuerinformatiker\linalg\vektoraddmult.png" />
     <path
        style="fill:#ff7f2a;stroke:#ff7f2a;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInL-7-0-8)"
        d="m 193.25957,151.08118 -53.69752,59.33473 v 0"
@@ -461,7 +551,7 @@
        sodipodi:nodetypes="ccc"
        inkscape:export-xdpi="299"
        inkscape:export-ydpi="299"
-       inkscape:export-filename="C:\Users\mmueller\Documents\dev\mathefuerinformatiker\vektoradd.png" />
+       inkscape:export-filename="C:\Users\mmueller\Documents\dev\mathefuerinformatiker\linalg\vektoraddmult.png" />
     <path
        style="fill:#0000ff;stroke:#0100ff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInL-7-1-1-1)"
        d="m 152.98021,176.58704 -13.41816,33.82887 v 0"
@@ -470,7 +560,7 @@
        sodipodi:nodetypes="ccc"
        inkscape:export-xdpi="299"
        inkscape:export-ydpi="299"
-       inkscape:export-filename="C:\Users\mmueller\Documents\dev\mathefuerinformatiker\vektoradd.png" />
+       inkscape:export-filename="C:\Users\mmueller\Documents\dev\mathefuerinformatiker\linalg\vektoraddmult.png" />
     <path
        style="fill:#ff0000;stroke:#ff0000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInL-4-8-6)"
        d="m 192.7871,150.7977 -38.74256,23.43452 v 0"
@@ -479,7 +569,7 @@
        sodipodi:nodetypes="ccc"
        inkscape:export-xdpi="299"
        inkscape:export-ydpi="299"
-       inkscape:export-filename="C:\Users\mmueller\Documents\dev\mathefuerinformatiker\vektoradd.png" />
+       inkscape:export-filename="C:\Users\mmueller\Documents\dev\mathefuerinformatiker\linalg\vektoraddmult.png" />
     <path
        style="fill:#ff0000;stroke:#ff0000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInL-4-4-9)"
        d="m 99.737794,234.67988 -38.74278,23.43452 v 0"
@@ -488,14 +578,14 @@
        sodipodi:nodetypes="ccc"
        inkscape:export-xdpi="299"
        inkscape:export-ydpi="299"
-       inkscape:export-filename="C:\Users\mmueller\Documents\dev\mathefuerinformatiker\vektoradd.png" />
+       inkscape:export-filename="C:\Users\mmueller\Documents\dev\mathefuerinformatiker\linalg\vektoraddmult.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="78.106743"
        y="243.62119"
        id="text4768-0-8"
-       inkscape:export-filename="C:\Users\mmueller\Documents\dev\mathefuerinformatiker\vektoradd.png"
+       inkscape:export-filename="C:\Users\mmueller\Documents\dev\mathefuerinformatiker\linalg\vektoraddmult.png"
        inkscape:export-xdpi="299"
        inkscape:export-ydpi="299"><tspan
          sodipodi:role="line"
@@ -511,14 +601,14 @@
        sodipodi:nodetypes="ccc"
        inkscape:export-xdpi="299"
        inkscape:export-ydpi="299"
-       inkscape:export-filename="C:\Users\mmueller\Documents\dev\mathefuerinformatiker\vektoradd.png" />
+       inkscape:export-filename="C:\Users\mmueller\Documents\dev\mathefuerinformatiker\linalg\vektoraddmult.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:7.4619813px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.18654953"
        x="80.511536"
        y="251.72226"
        id="text4768-0-8-7"
-       inkscape:export-filename="C:\Users\mmueller\Documents\dev\mathefuerinformatiker\vektoradd.png"
+       inkscape:export-filename="C:\Users\mmueller\Documents\dev\mathefuerinformatiker\linalg\vektoraddmult.png"
        inkscape:export-xdpi="299"
        inkscape:export-ydpi="299"><tspan
          sodipodi:role="line"
@@ -534,14 +624,14 @@
        sodipodi:nodetypes="ccc"
        inkscape:export-xdpi="299"
        inkscape:export-ydpi="299"
-       inkscape:export-filename="C:\Users\mmueller\Documents\dev\mathefuerinformatiker\vektoradd.png" />
+       inkscape:export-filename="C:\Users\mmueller\Documents\dev\mathefuerinformatiker\linalg\vektoraddmult.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="73.999123"
        y="233.03586"
        id="text4768-0-8-4"
-       inkscape:export-filename="C:\Users\mmueller\Documents\dev\mathefuerinformatiker\vektoradd.png"
+       inkscape:export-filename="C:\Users\mmueller\Documents\dev\mathefuerinformatiker\linalg\vektoraddmult.png"
        inkscape:export-xdpi="299"
        inkscape:export-ydpi="299"><tspan
          sodipodi:role="line"
@@ -549,5 +639,215 @@
          x="73.999123"
          y="233.03586"
          style="font-size:7.05555534px;stroke-width:0.26458332">-a</tspan></text>
+    <path
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInL-4-4-9-2)"
+       d="M 175.64778,234.58179 136.905,258.01631 v 0"
+       id="path815-0-7-0-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-xdpi="299"
+       inkscape:export-ydpi="299"
+       inkscape:export-filename="C:\Users\mmueller\Documents\dev\mathefuerinformatiker\linalg\vektoraddmult.png" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker10434)"
+       d="m 136.905,222.45443 v 35.56188 0"
+       id="path815-0-7-0-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-xdpi="299"
+       inkscape:export-ydpi="299"
+       inkscape:export-filename="C:\Users\mmueller\Documents\dev\mathefuerinformatiker\linalg\vektoraddmult.png" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker10594)"
+       d="m 189.80615,258.11376 h -53.0547 v 0"
+       id="path815-0-7-0-8-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-xdpi="299"
+       inkscape:export-ydpi="299"
+       inkscape:export-filename="C:\Users\mmueller\Documents\dev\mathefuerinformatiker\linalg\vektoraddmult.png" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="162.91231"
+       y="250.00687"
+       id="text4768-0-8-1"
+       inkscape:export-filename="C:\Users\mmueller\Documents\dev\mathefuerinformatiker\linalg\vektoraddmult.png"
+       inkscape:export-xdpi="299"
+       inkscape:export-ydpi="299"><tspan
+         sodipodi:role="line"
+         id="tspan4766-1-3-27"
+         x="162.91231"
+         y="250.00687"
+         style="font-size:7.05555534px;stroke-width:0.26458332">a</tspan></text>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.25,1;stroke-opacity:1;stroke-dashoffset:0"
+       d="m 178.06501,233.13281 v 24.90451 0"
+       id="path815-0-7-0-8-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-xdpi="299"
+       inkscape:export-ydpi="299"
+       inkscape:export-filename="C:\Users\mmueller\Documents\dev\mathefuerinformatiker\linalg\vektoraddmult.png" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.25,1;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 136.90464,233.13281 h 41.16037 v 0"
+       id="path815-0-7-0-8-4-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-xdpi="299"
+       inkscape:export-ydpi="299"
+       inkscape:export-filename="C:\Users\mmueller\Documents\dev\mathefuerinformatiker\linalg\vektoraddmult.png" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.98008537px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.14950213"
+       x="176.84865"
+       y="262.90494"
+       id="text4768-0-8-1-8"
+       inkscape:export-filename="C:\Users\mmueller\Documents\dev\mathefuerinformatiker\linalg\vektoraddmult.png"
+       inkscape:export-xdpi="299"
+       inkscape:export-ydpi="299"><tspan
+         sodipodi:role="line"
+         id="tspan4766-1-3-27-9"
+         x="176.84865"
+         y="262.90494"
+         style="font-size:3.98672342px;stroke-width:0.14950213">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="192.57922"
+       y="259.89584"
+       id="text4768-0-8-1-2"
+       inkscape:export-filename="C:\Users\mmueller\Documents\dev\mathefuerinformatiker\linalg\vektoraddmult.png"
+       inkscape:export-xdpi="299"
+       inkscape:export-ydpi="299"><tspan
+         sodipodi:role="line"
+         id="tspan4766-1-3-27-2"
+         x="192.57922"
+         y="259.89584"
+         style="font-size:7.05555534px;stroke-width:0.26458332">x</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="134.84901"
+       y="219.13724"
+       id="text4768-0-8-1-26"
+       inkscape:export-filename="C:\Users\mmueller\Documents\dev\mathefuerinformatiker\linalg\vektoraddmult.png"
+       inkscape:export-xdpi="299"
+       inkscape:export-ydpi="299"><tspan
+         sodipodi:role="line"
+         id="tspan4766-1-3-27-8"
+         x="134.84901"
+         y="219.13724"
+         style="font-size:7.05555534px;stroke-width:0.26458332">y</tspan></text>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.07541625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 138.60382,244.74881 h -3.35283 v 0"
+       id="path815-0-7-0-8-2-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-xdpi="299"
+       inkscape:export-ydpi="299"
+       inkscape:export-filename="C:\Users\mmueller\Documents\dev\mathefuerinformatiker\linalg\vektoraddmult.png" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.07541625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 138.60382,233.13069 h -3.35283 v 0"
+       id="path815-0-7-0-8-2-5-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-xdpi="299"
+       inkscape:export-ydpi="299"
+       inkscape:export-filename="C:\Users\mmueller\Documents\dev\mathefuerinformatiker\linalg\vektoraddmult.png" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.07541625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 150.00621,256.38576 v 3.35283 0"
+       id="path815-0-7-0-8-2-5-9-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-xdpi="299"
+       inkscape:export-ydpi="299"
+       inkscape:export-filename="C:\Users\mmueller\Documents\dev\mathefuerinformatiker\linalg\vektoraddmult.png" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.07541625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 164.07475,256.41564 v 3.35283 0"
+       id="path815-0-7-0-8-2-5-9-6-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-xdpi="299"
+       inkscape:export-ydpi="299"
+       inkscape:export-filename="C:\Users\mmueller\Documents\dev\mathefuerinformatiker\linalg\vektoraddmult.png" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.07541625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 178.06832,256.1686 v 3.35283 0"
+       id="path815-0-7-0-8-2-5-9-6-7-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-xdpi="299"
+       inkscape:export-ydpi="299"
+       inkscape:export-filename="C:\Users\mmueller\Documents\dev\mathefuerinformatiker\linalg\vektoraddmult.png" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.98008537px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.14950214"
+       x="162.87987"
+       y="262.88409"
+       id="text4768-0-8-1-8-6"
+       inkscape:export-filename="C:\Users\mmueller\Documents\dev\mathefuerinformatiker\linalg\vektoraddmult.png"
+       inkscape:export-xdpi="299"
+       inkscape:export-ydpi="299"
+       inkscape:transform-center-x="-0.28348214"
+       inkscape:transform-center-y="0.047247024"><tspan
+         sodipodi:role="line"
+         id="tspan4766-1-3-27-9-2"
+         x="162.87987"
+         y="262.88409"
+         style="font-size:3.98672342px;stroke-width:0.14950214">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.98008537px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.14950216"
+       x="148.76955"
+       y="262.88538"
+       id="text4768-0-8-1-8-6-2"
+       inkscape:export-filename="C:\Users\mmueller\Documents\dev\mathefuerinformatiker\linalg\vektoraddmult.png"
+       inkscape:export-xdpi="299"
+       inkscape:export-ydpi="299"
+       inkscape:transform-center-x="-0.28348214"
+       inkscape:transform-center-y="0.047247024"><tspan
+         sodipodi:role="line"
+         id="tspan4766-1-3-27-9-2-2"
+         x="148.76955"
+         y="262.88538"
+         style="font-size:3.98672342px;stroke-width:0.14950216">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.98008537px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.14950217"
+       x="132.37592"
+       y="246.0025"
+       id="text4768-0-8-1-8-6-2-9"
+       inkscape:export-filename="C:\Users\mmueller\Documents\dev\mathefuerinformatiker\linalg\vektoraddmult.png"
+       inkscape:export-xdpi="299"
+       inkscape:export-ydpi="299"
+       inkscape:transform-center-x="-0.28348214"
+       inkscape:transform-center-y="0.047247024"><tspan
+         sodipodi:role="line"
+         id="tspan4766-1-3-27-9-2-2-4"
+         x="132.37592"
+         y="246.0025"
+         style="font-size:3.98672342px;stroke-width:0.14950217">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.98008537px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.14950217"
+       x="132.37592"
+       y="234.30945"
+       id="text4768-0-8-1-8-6-2-9-4"
+       inkscape:export-filename="C:\Users\mmueller\Documents\dev\mathefuerinformatiker\linalg\vektoraddmult.png"
+       inkscape:export-xdpi="299"
+       inkscape:export-ydpi="299"
+       inkscape:transform-center-x="-0.28348214"
+       inkscape:transform-center-y="0.047247024"><tspan
+         sodipodi:role="line"
+         id="tspan4766-1-3-27-9-2-2-4-1"
+         x="132.37592"
+         y="234.30945"
+         style="font-size:3.98672342px;stroke-width:0.14950217">2</tspan></text>
   </g>
 </svg>
