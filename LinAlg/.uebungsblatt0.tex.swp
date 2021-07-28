@@ -114,7 +114,7 @@ evaluate (sqrt, 2, 5)
 berechnen. 
 
 \subsection*{Funktionen Zeichnen}
-Oft hilft es enorm eine mathematische Funktion zu \glqq Zeichnen\grqq{} um sie besser zu \glqq verstehen\grqq{}. Herr Weitz hat zum Plotten von mathematischen Funktionen eine eigene Biblithek (\verb+plot+) geschrieben, welche einen \textit{wrapper} f"ur die etwas schwieriger anzuwendende Bibliothek \verb+mathplotlib+ bildet. Wenn sie \verb+Jupyter+ im Docker von Herr Weitz laufen lassen, ist diese Bibliothek bereits \glqq installiert \grqq{}. Falls nicht, finden sie seine Bibliothek auf seiner Homepage. Ist alles richtig installiert, sollten sie mit 
+Oft hilft es enorm eine mathematische Funktion zu \glqq Zeichnen\grqq{} um sie besser zu \glqq verstehen\grqq{}. Herr Weitz hat zum Plotten von mathematischen Funktionen eine eigene Biblithek (\verb+plot+) geschrieben, welche einen \textit{wrapper} f"ur die etwas schwieriger anzuwendende Bibliothek \verb+mathplotlib+ bildet. Wenn sie \verb+Jupyter+ im Docker von Herr Weitz laufen lassen, ist diese Bibliothek bereits \glqq installiert\grqq{}. Falls nicht, finden sie seine Bibliothek auf seiner Homepage. Ist alles richtig installiert, sollten sie mit 
 \begin{python}
 from plot import *
 plotFunc2D(lambda x: x*x + x - 1, [-2.5, 1.5])
@@ -122,7 +122,7 @@ plotFunc2D(lambda x: x*x + x - 1, [-2.5, 1.5])
 einen Plot der Funktion $f(x) = x^2 + x -1$ in karthesischen Koordinaten erhalten:
 \begin{figure}[H]
 \centering
-\includegraphics[width=0.9\columnwidth]{sqrtxplot.png}
+\includegraphics[width=0.5\columnwidth]{sqrtxplot.png}
 \end{figure}\noindent
 Solche Plots werden Funktionsgraphen oder nur Graphen genannt. Versuchen sie mit den Parametern \verb+grid=True+ und \verb+scaled=True+ den Plot zu beeinflussen. Plotten sie auch andere ihnen 
 bekannte Funktionen um sich an den Umgang mit \verb+plotFunc2D+ zu gew"ohnen.
@@ -227,7 +227,7 @@ def someValues(seq, L = [10 ** k for k in range(10)]):
         
 someValues(lambda n: n / (n + 1))
 \end{python}
-Wir werden diese Funktion sp"ater in der Analysis be"otigen um auf einfache Art pr"ufen zu k"onnen, wie sich eine mathematische Funktion (im Beispiel $\frac{n}{n +1}$) \glqq verh"alt\grqq{}. Zum jetzigen Zeitpunkt ist aber nur wichtig, dass sie die eingef"uhrten Python-Konstrukte gut genug verinnerlicht haben, um die Funktionsweise von \verb+someValues+ verstehen zu k"onnen. Ist dies der Fall, k"onnen sie sich in der Vorlesung und den Seminaren voll auf die Mathematik konzentrieren und dem Erlernen der Linearen Algebra sowie der Grundlagen der Analysis unter Zuhilfenahme der Programmierung steht nichts mehr im Wege!
+Wir werden diese Funktion sp"ater in der Analysis be"otigen um auf einfache Art pr"ufen zu k"onnen, wie sich eine mathematische Funktion (im Beispiel $\frac{n}{n +1}$) \glqq verh"alt\grqq{}. Zum jetzigen Zeitpunkt ist aber nur wichtig, dass sie die eingef"uhrten Python-Konstrukte gut genug verinnerlicht haben, um die Funktionsweise von \verb+someValues+ verstehen zu k"onnen. Ist dies der Fall, k"onnen sie sich in der Vorlesung und den Seminaren voll auf die Mathematik konzentrieren und dem Erlernen der linearen Algebra sowie der Grundlagen der Analysis unter Zuhilfenahme der Programmierung steht nichts mehr im Wege!
 \begin{thebibliography}{9}
 \bibitem{weitz} 
 E. Weitz, Konkrete Mathematik (nicht nur) f"ur Informatiker. 2021, https://www.springer.com/de/book/9783662626177
